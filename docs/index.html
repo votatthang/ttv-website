@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.22">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,13 +36,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b4406b7675125bc2ba204020e191172.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f4e4f6f13c60fd88d7a110a7c3d02718.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5e6bd0f431d9db1b2e65cd770f46ab1a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
@@ -113,23 +114,42 @@ gtag('js', new Date());
 gtag('config', '', { 'anonymize_ip': true});
 </script>
 
+
 <!-- 
+
 Load Academicons v1: https://jpswalsh.github.io/academicons/
+
 -->
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
 
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
 
+
+
+
 <!---
+
 The following code are needed to show dimension citation and altmetrics.
+
 https://api.altmetric.com/embeds.html
+
 https://badge.dimensions.ai/
+
 --->
+
+
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
+
+
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
@@ -147,7 +167,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -338,7 +358,7 @@ window.Quarto = {
 </div>
   </div>
   <div class="about-contents"><div id="hero-heading">
-<p>I’m a <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academeic Website Template</a> adapted by <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a>.</p>
+<p>I’m a <a href="https://github.com/drganghe/quarto-academic-website-template">Tat Thang Vo</a> adapted by <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a>.</p>
 <p>I’m a template that you can fork to build your own website with easy adaptation and deployment.</p>
 <ol type="1">
 <li><strong>Star</strong> this repository to bookmark it for future reference.<br>
@@ -387,7 +407,7 @@ window.Quarto = {
 <p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>
 <div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1728964800000">
+<div class="g-col-1" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1728943200000">
 <a href="https://drganghe.github.io/quarto-academic-site-examples.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -405,7 +425,7 @@ Oct 15, 2024
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="ZXZlbnQlMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1725336000000" data-listing-file-modified-sort="1739198683941" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
+<div class="g-col-1" data-index="1" data-categories="ZXZlbnQlMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1725314400000" data-listing-file-modified-sort="1768483417921" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
 <a href="./posts/event-title/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -423,7 +443,7 @@ Sep 3, 2024
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1719201600000" data-listing-file-modified-sort="1749249243868" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
+<div class="g-col-1" data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1719180000000" data-listing-file-modified-sort="1768483417922" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
 <a href="./posts/news-title/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -498,13 +518,14 @@ Jun 24, 2024
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
