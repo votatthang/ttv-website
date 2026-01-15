@@ -1,10 +1,10 @@
     - path: https://drganghe.github.io/quarto-academic-website-template
       image: "/files/profiles/profile3.JPG"
-      title: "Student B"
-      lastname: "B"
+      title: "Jonathan Aganze Baleke"
+      #lastname: "B"
 #      author: 
-      subtitle: "Masters Student"
+      subtitle: "MSc. Student"
 #      date: "2024-03-12"
       categories: [Masters Student] 
-      started: "2024"
-      ended: "2025"
+      started: "02/2026"
+      ended: "08/2026"

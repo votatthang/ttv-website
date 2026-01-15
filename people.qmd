@@ -1,6 +1,6 @@
 ---
 title: "People"
-subtitle: "Who we are"
+#subtitle: "Who we are"
 #image: files/group.jpeg
 page-layout: full
 listing:  #an example of listing external links
@@ -16,10 +16,13 @@ listing:  #an example of listing external links
 #  sort-ui: true
 #  filter-ui: true
   contents: 
-    - /people/pi.yml  # Use individual files here as you may use each person at different occasions such as events, news.
-    - /people/phd-student.yml
-    - /people/masters-student.yml
-    - /people/undergraduate-student.yml
+    - /people/marie-felicia.yml
+    - /people/enrico-roma.yml
+    - /people/khoi-le.yml
+    - /people/jonathan-baleke.yml
+    - /people/jeremy-sarri.yml
+    - /people/nicolas-mauffette.yml
+    - /people/lam-nguyen.yml
 
 - id: lab-alumni
   sort: "lastname asc"
@@ -52,6 +55,7 @@ format:
     link-external-newwindow: true
 ---
 
+Our current team includes two postdoctoral researchers and one PhD student. This year, we are excited to welcome four master’s students who are joining us for six-month internships.
 
 ## Team
 

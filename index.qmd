@@ -1,6 +1,6 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+title: "Tat-Thang Vo, PhD"
+description-meta: "Tat-Thang Vo"
 image: "files/images/ttv-photo.jpg"
 page-navigation: false
 toc: false
@@ -14,38 +14,38 @@ about:
   links:
     - icon: sun
       text: Lab
-      href: https://www.github.com
+      href: https://team-epiderme.com 
       target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
+#    - icon: globe
+#      text: Uprofile
+#      href: https://baruch.cuny.edu
+#      target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:tat-thang.vo@u-pec.fr    
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/tat-thang-vo-281453113/?originalSubdomain=fr 
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
+#    - icon: youtube
+#      text: YouTube
+#      href: https://www.youtube.com     
+#      target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
+      href: https://orcid.org/0000-0001-6485-9947
       target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
+#    - text: "{{< ai clarivate >}} Web of Science"
+#      href: https://www.webofscience.com  
+#      target: _blank
+#    - text: "{{< ai scopus >}} Scopus"
+#      href: https://www.scopus.com
+#      target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com
       target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/profile/Tat-Thang-Vo-2
+      target: _blank
 
 listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
   - id: recent-posts
@@ -67,31 +67,22 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I'm a [Tat Thang Vo](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+Hi! I am a biostatistician with research interests in developing and applying causal inference methods to medical research. 
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+Since 11/2023, I have been a Junior Professor in Biostatistics at team EpiDermE, Institut Mondor of Biomedical Research (INSERM U955), University Paris XII.
 
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
-1. [**Publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
-
-## Experience
-
-- Researcher, Univerisity
 
 ## Education
 
-- PhD, Univerisity
+Previously, I received a BSc. (Hons) in Mathematics at The Open University (UK), a Master in Comparative Effectiveness Research at University Paris Cité (France) and a Pharm.D. at Hanoi University of Pharmacy (Vietnam).
+
+In 2020, I completed a PhD in Biostatistics jointly from Ghent University (Belgium) and University Paris Cité (France). My PhD research was funded by the European Union H2020 program. I then received three years of postdoctoral training at Wharton Department of Statistics and Data Science, University of Pennsylvania (USA).
+
+## Research Interest
+
+My current works primarily concern the development of novel approaches for data fusion, mediation analysis, meta-analysis and heterogeneity assessment. More recently, I have been working on methods to address unmeasured confounders, policy learning and indirect treatment comparisons. 
+
+One important feature of my research is the application of semi-parametric theory to develop flexible, data-adaptive estimation strategies for causal parameters. I am also interested in the applications of causal methods to clinical questions in medicine, psychology and pharmacoepidemiology.
 
 :::
 

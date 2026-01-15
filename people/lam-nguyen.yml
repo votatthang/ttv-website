@@ -1,0 +1,10 @@
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile3.JPG"
+      title: "Lam Nguyen"
+      #lastname: "B"
+#      author: 
+      subtitle: "MSc. Student"
+#      date: "2024-03-12"
+      categories: [Masters Student] 
+      started: "02/2026"
+      ended: "05/2026"

@@ -7,9 +7,9 @@ description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
 author-meta: "Dr. Gang He"
 
 website:
-  title: "Quarto Academic"
+  title: "Tat-Thang Vo"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  #description: "Quarto Academic Website Template adapted by Dr. Gang He"
  
   navbar:
     background: light  # You can change the background color here
@@ -27,10 +27,10 @@ website:
             href: contact.qmd             
       - text: Research
         menu:
-          - text: List of Publications
+          - text: Research Axes
             href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
+#          - text: Selected Papers
+#            href: posts.qmd#category=paper
           - text: Grants
             href: projects.qmd                                
       - text: Teaching # Comment the Teaching part out to remove the Teaching page

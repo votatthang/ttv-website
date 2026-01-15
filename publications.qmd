@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+#title: "Research"
 description-meta: "Information, pdfs, and social metrics of papers"
 #page-layout: full
 #back-to-top-navigation: true
@@ -7,16 +7,19 @@ title-block-banner: false
 css: custom.css
 ---
 
+Our research is organized around three complementary axes. 
 
-<!--Include academic icons or buttons-->
-{{< include /files/includes/_academic.qmd >}}
+## Causal Data Fusion
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
+Data fusion refers to the integration of data and knowledge from multiple sources to improve statistical inference. Across many research fields, it has become increasingly important to combine information from several databases in order to strengthen evidence generation. Within this area, our work focuses on developing new methods to address heterogeneity and limited access to individual-level data when borrowing information across populations, particularly in the context of evidence synthesis, federated learning and health technology assessment.
 
-Total citations as of January 2025:
+## Causal Mediation Analysis
 
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
+Mediation analysis encompasses a class of statistical methods designed to evaluate the role of intermediate variables in explaining the relationship between a treatment and an outcome. Our research aims to develop novel methods to address intermediate confounding in mediation analyses and to combine indirect effect estimates across multiple mediation studies. We also investigate common pitfalls in current mediation practice and propose methodological strategies to improve the quality and reliability of future analyses.
+
+## Addressing Confounding Bias
+
+Finally, our team is particularly interested in developing new methodologies, as well as extending and improving existing approaches, to address both measured and unmeasured confounding. Current projects include methods that combine matching and countermatching in nested case–control designs, extensions of difference-in-differences designs to survival outcomes, and the development of alternative approaches when the parallel trends assumption underlying difference-in-differences is violated.
 
 ## Selected Work
 

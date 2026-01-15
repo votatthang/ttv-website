@@ -1,59 +1,66 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tat-Thang Vo, PhD",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Lab\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n\n  \n  \nHi! I am a biostatistician with research interests in developing and applying causal inference methods to medical research.\nSince 11/2023, I have been a Junior Professor in Biostatistics at team EpiDermE, Institut Mondor of Biomedical Research (INSERM U955), University Paris XII.\n\n\nPreviously, I received a BSc. (Hons) in Mathematics at The Open University (UK), a Master in Comparative Effectiveness Research at University Paris Cité (France) and a Pharm.D. at Hanoi University of Pharmacy (Vietnam).\nIn 2020, I completed a PhD in Biostatistics jointly from Ghent University (Belgium) and University Paris Cité (France). My PhD research was funded by the European Union H2020 program. I then received three years of postdoctoral training at Wharton Department of Statistics and Data Science, University of Pennsylvania (USA).\n\n\n\nMy current works primarily concern the development of novel approaches for data fusion, mediation analysis, meta-analysis and heterogeneity assessment. More recently, I have been working on methods to address unmeasured confounders, policy learning and indirect treatment comparisons.\nOne important feature of my research is the application of semi-parametric theory to develop flexible, data-adaptive estimation strategies for causal parameters. I am also interested in the applications of causal methods to clinical questions in medicine, psychology and pharmacoepidemiology."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Tat-Thang Vo, PhD",
+    "section": "",
+    "text": "Previously, I received a BSc. (Hons) in Mathematics at The Open University (UK), a Master in Comparative Effectiveness Research at University Paris Cité (France) and a Pharm.D. at Hanoi University of Pharmacy (Vietnam).\nIn 2020, I completed a PhD in Biostatistics jointly from Ghent University (Belgium) and University Paris Cité (France). My PhD research was funded by the European Union H2020 program. I then received three years of postdoctoral training at Wharton Department of Statistics and Data Science, University of Pennsylvania (USA)."
+  },
+  {
+    "objectID": "index.html#research-interest",
+    "href": "index.html#research-interest",
+    "title": "Tat-Thang Vo, PhD",
+    "section": "",
+    "text": "My current works primarily concern the development of novel approaches for data fusion, mediation analysis, meta-analysis and heterogeneity assessment. More recently, I have been working on methods to address unmeasured confounders, policy learning and indirect treatment comparisons.\nOne important feature of my research is the application of semi-parametric theory to develop flexible, data-adaptive estimation strategies for causal parameters. I am also interested in the applications of causal methods to clinical questions in medicine, psychology and pharmacoepidemiology."
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Tat-Thang Vo, PhD",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Tat-Thang Vo",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Our research is organized around three complementary axes."
+  },
+  {
+    "objectID": "publications.html#causal-data-fusion",
+    "href": "publications.html#causal-data-fusion",
+    "title": "Tat-Thang Vo",
+    "section": "Causal Data Fusion",
+    "text": "Causal Data Fusion\nData fusion refers to the integration of data and knowledge from multiple sources to improve statistical inference. Across many research fields, it has become increasingly important to combine information from several databases in order to strengthen evidence generation. Within this area, our work focuses on developing new methods to address heterogeneity and limited access to individual-level data when borrowing information across populations, particularly in the context of evidence synthesis, federated learning and health technology assessment."
+  },
+  {
+    "objectID": "publications.html#causal-mediation-analysis",
+    "href": "publications.html#causal-mediation-analysis",
+    "title": "Tat-Thang Vo",
+    "section": "Causal Mediation Analysis",
+    "text": "Causal Mediation Analysis\nMediation analysis encompasses a class of statistical methods designed to evaluate the role of intermediate variables in explaining the relationship between a treatment and an outcome. Our research aims to develop novel methods to address intermediate confounding in mediation analyses and to combine indirect effect estimates across multiple mediation studies. We also investigate common pitfalls in current mediation practice and propose methodological strategies to improve the quality and reliability of future analyses."
+  },
+  {
+    "objectID": "publications.html#addressing-confounding-bias",
+    "href": "publications.html#addressing-confounding-bias",
+    "title": "Tat-Thang Vo",
+    "section": "Addressing Confounding Bias",
+    "text": "Addressing Confounding Bias\nFinally, our team is particularly interested in developing new methodologies, as well as extending and improving existing approaches, to address both measured and unmeasured confounding. Current projects include methods that combine matching and countermatching in nested case–control designs, extensions of difference-in-differences designs to survival outcomes, and the development of alternative approaches when the parallel trends assumption underlying difference-in-differences is violated."
   },
   {
     "objectID": "publications.html#selected-work",
     "href": "publications.html#selected-work",
-    "title": "Publications",
+    "title": "Tat-Thang Vo",
     "section": "Selected Work",
     "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
   },
   {
     "objectID": "teaching.html",
@@ -84,53 +91,25 @@
     "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Tat Thang Vo adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository to bookmark it for future reference.\n\nFork this repository and rename it to YourGitHubUserName.github.io.\n\nUpdate the _quarto.yml file to configure your site’s basic settings.\n\nAdd or edit content in the following files and folders:\n\n/posts/ – posts about publications, news, events\n\nteaching.qmd – teaching information\n\nprojects.yml – research or other projects\n\npeople.qmd and /people/ – team or collaborators\n\n/files/ - profiles, images, pdfs, and includes\n\nRender and preview your site locally.\n\nPublish your site using GitHub Pages (make sure configuring your GitHub repository to publish from the docs directory, not the root folder).\nRefine and polish your content and design as needed.\n\n✅ Enjoy your new website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "Researcher, Univerisity"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "PhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+    "text": "Our current team includes two postdoctoral researchers and one PhD student. This year, we are excited to welcome four master’s students who are joining us for six-month internships."
   },
   {
     "objectID": "people.html#team",
     "href": "people.html#team",
     "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+    "section": "Team",
+    "text": "Team\n\n\n\n\n\n\n\n\n\n\nMarie-Felicia Béclin\n\n\nPostdoc\n\n\n\n\n\n\n\n\n\n\n\n\nEnrico Roma\n\n\nPostdoc\n\n\n\n\n\n\n\n\n\n\n\n\nKhoi Le\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nJonathan Aganze Baleke\n\n\nMSc. Student\n\n\n\n\n\n\n\n\n\n\n\n\nJeremy Sarri\n\n\nMSc. student\n\n\n\n\n\n\n\n\n\n\n\n\nNicolas Mauffette\n\n\nMSc. Student\n\n\n\n\n\n\n\n\n\n\n\n\nLam Nguyen\n\n\nMSc. Student\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#alumni",
