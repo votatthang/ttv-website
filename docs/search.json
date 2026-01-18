@@ -60,14 +60,14 @@
     "href": "publications.html#selected-work",
     "title": "Tat-Thang Vo",
     "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "text": "Selected Work\n\nVo T, Le K, Afach S, Vansteelandt S. Integration of aggregated data in causally interpretable meta-analysis by inverse weighting. Biometrics. Under revision.\nLe K, Beclin MF, Afach S, Vo T. Transportability of aggregate trial results to an external environment in causally interpretable meta-analysis. Journal of the Royal Statistical Society, Series A. Under revision.\nVo T, Wiliams NT, Liu L, Rudolph KE, Diaz I. Recanting twins: addressing intermediate confounding in mediation analysis. Stat Med. Under revision.\nVo T, Ye T, Ertefaie A, Roy S, Flory J, Hennessy S, Vansteelandt S, Small D. Structural Mean Models for Instrumented Difference in Difference design. Electron J Statist. 2024;18(2):5132-5155. doi: 10.1214/24-EJS2313.\nGilbert B, Diaz I, Rudolph K, Vo T. A novel decomposition to explain heterogeneity in observational and randomized studies of causality. Biostatistics. In press.\nVo T, Davies H, Hackett R, Vansteelandt S. Longitudinal mediation analysis of time-to-event outcome in the presence of competing risk. Lifetime Data Anal. 2022;28:380–400. doi:10.1007/ s10985-022-09555-7.\nVo T, Porcher R, Vansteelandt S. Assessing the impact of case-mix heterogeneity in individual participant data meta-analysis: Novel use of I2 statistic and prediction interval. Research Methods in Medicine & Health Sciences. 2021;2(1):12-30.doi:10.1177/2632084320957207.\nVo T, Porcher R, Chaimani A, Vansteelandt S. A Novel Approach for Identifying and Addressing Case-Mix Heterogeneity in Individual Participant Data Meta-Analysis. Res Synth Methods. 2019;10(4):582-596. doi:10.1002/jrsm.1382."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "Fall 2024; Fall 2023\nGraduate-level course (15–18 hours) on causal inference for MSc students in Epidemiology and Clinical Research. The course covers foundational and applied topics including causal graphs (DAGs), counterfactual outcomes and causal estimands, g-computation and inverse probability weighting, marginal structural models, and mediation analysis."
   },
   {
     "objectID": "teaching.html#class-1",
@@ -95,7 +95,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Role\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nRole\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\n25R09121C-DEVSTAR\n\n\nPI\n\n\nNovo Nordisk\n\n\nCausally Interpretable Network Meta-Analysis (CI-NMA): fit-for-purpose methods for decision-making.\n\n\n190,000 EUR\n\n\n2026\n\n\n2029\n\n\n\n\n\n\n\n\n\n23R09551S-MEDIATION\n\n\nPI\n\n\nANR\n\n\nLeveraging the use of causal inference methods in evaluating the effectiveness and safety of systemic treatments for psoriasis.\n\n\n200,000 EUR\n\n\n2023\n\n\n2027\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html",
@@ -117,5 +117,19 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html#causal-analysis",
+    "href": "teaching.html#causal-analysis",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024; Fall 2023\nGraduate-level course (15–18 hours) on causal inference for MSc students in Epidemiology and Clinical Research. The course covers foundational and applied topics including causal graphs (DAGs), counterfactual outcomes and causal estimands, g-computation and inverse probability weighting, marginal structural models, and mediation analysis."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
   }
 ]

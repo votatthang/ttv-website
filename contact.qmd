@@ -6,19 +6,17 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Tat-Thang Vo**
 
-School
+Equipe EpiDermE
 
-College
+Institue Mondor de Recherche Biomedicale (INSERM U990)
 
-University
+Université Paris-Est Créteil
 
 Address: 
 
-Phone: 
-
-E-mail: 
+E-mail: tat-thang.vo@u-pec.fr 
 
 
 </center>

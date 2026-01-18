@@ -1,13 +1,23 @@
 
-    - path: https://www.nsf.gov/ 
-      image: https://nsf-gov-resources.nsf.gov/styles/featured_content_tablet/s3/2023-10/NSF_Official_logo_Med_Res_600ppi_rectangle.png
-      title: "Exploring "
-      author: Academic Website
-      subtitle: "Funder"
-      description: "The goal of this project is to investigate ."
-      started: "2024"
-      ended: "2025"
-      funding: "$0"
-#      date: "2022-10-26"
-#      categories: [] 
+    - #path: https://anr.fr/ 
+      image: "https://u-paris.fr/wp-content/uploads/2021/09/ANR-logo-C.jpg"
+      title: "23R09551S-MEDIATION"
+      author: PI
+      subtitle: "ANR"
+      description: "Leveraging the use of causal inference methods in evaluating the effectiveness and safety
+      of systemic treatments for psoriasis."
+      started: "2023"
+      ended: "2027"
+      funding: "200,000 EUR"
 
+
+    - #path: https://www.novonordisk.com 
+      image: "files/images/NN.jpg"
+      title: "25R09121C-DEVSTAR"
+      author: PI
+      subtitle: "Novo Nordisk"
+      description: "Causally Interpretable Network Meta-Analysis (CI-NMA): fit-for-purpose methods for
+      decision-making."
+      started: "2026"
+      ended: "2029"
+      funding: "190,000 EUR"

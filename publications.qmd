@@ -22,14 +22,15 @@ Mediation analysis encompasses a class of statistical methods designed to evalua
 Finally, our team is particularly interested in developing new methodologies, as well as extending and improving existing approaches, to address both measured and unmeasured confounding. Current projects include methods that combine matching and countermatching in nested case–control designs, extensions of difference-in-differences designs to survival outcomes, and the development of alternative approaches when the parallel trends assumption underlying difference-in-differences is violated.
 
 ## Selected Work
-
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
-
-
-<center><hr style="width:50%"></center>
-
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
+- [Vo T](https://arxiv.org/abs/2503.05634), Le K, Afach S, Vansteelandt S. Integration of aggregated data in causally interpretable meta-analysis by inverse weighting. *Biometrics*. Under revision.
+- Le K, Beclin MF, Afach S, [Vo T](https://arxiv.org/abs/2408.04854). Transportability of aggregate trial results to an external environment in causally interpretable meta-analysis. *Journal of the Royal Statistical Society, Series A*. Under revision.
+- [Vo T](https://arxiv.org/abs/2401.04450), Wiliams NT, Liu L, Rudolph KE, Diaz I. Recanting twins: addressing intermediate confounding
+in mediation analysis. *Stat Med*. Under revision.
+- [Vo T](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-2/Structural-mean-models-for-instrumented-difference-in-differences/10.1214/24-EJS2313.full), Ye T, Ertefaie A, Roy S, Flory J, Hennessy S, Vansteelandt S, Small D. Structural Mean Models for Instrumented Difference in Difference design. *Electron J Statist*. 2024;18(2):5132-5155. doi: 10.1214/24-EJS2313.
+- Gilbert B, Diaz I, Rudolph K, [Vo T](https://arxiv.org/abs/2208.05543). A novel decomposition to explain heterogeneity in observational and randomized studies of causality. *Biostatistics*. In press.
+- [Vo T](https://link.springer.com/article/10.1007/s10985-022-09555-7), Davies H, Hackett R, Vansteelandt S. Longitudinal mediation analysis of time-to-event outcome in the presence of competing risk. *Lifetime Data Anal*. 2022;28:380–400. doi:10.1007/ s10985-022-09555-7.
+- [Vo T](https://journals.sagepub.com/doi/full/10.1177/2632084320957207), Porcher R, Vansteelandt S. Assessing the impact of case-mix heterogeneity in individual participant data meta-analysis: Novel use of I2 statistic and prediction interval. *Research Methods in Medicine \& Health Sciences*. 2021;2(1):12-30.doi:10.1177/2632084320957207.
+- [Vo T](https://onlinelibrary.wiley.com/doi/full/10.1002/jrsm.1382), Porcher R, Chaimani A, Vansteelandt S. A Novel Approach for Identifying and Addressing Case-Mix Heterogeneity in Individual Participant Data Meta-Analysis. *Res Synth Methods*. 2019;10(4):582-596. doi:10.1002/jrsm.1382.
 
 
 <!--Include social share buttons-->

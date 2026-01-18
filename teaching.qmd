@@ -1,67 +1,30 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
+subtitle: "Below is a selected list of courses I have delivered over the past few years."
 title-block-banner: false
 ---
 
 
-## Class 1
+## Causal analysis
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+![](files/images/paris saclay.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+[Fall 2024; Fall 2023](https://www.universite-paris-saclay.fr/formation/master/sante-publique/m2-recherches-en-sante-publique#edit-group-programme)
 
-Class 1 introduction.
-
+Graduate-level course (15–18 hours) on causal inference for MSc students in Epidemiology and Clinical Research.
+The course covers foundational and applied topics including causal graphs (DAGs), counterfactual outcomes and causal estimands, g-computation and inverse probability weighting, marginal structural models, and mediation analysis.
 :::
 
 :::
 
 
-## Class 2
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
-
-:::
-
-:::
-
-
-## Class 3
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction. 
-
-:::
-
-:::
 
 

@@ -12,7 +12,7 @@ listing:
   image-height: 30px
   field-display-names: 
       title: "Title"
-      author: "Team"
+      author: "Role"
       subtitle: "Funder"
       started: "Start"
       ended: "End"
