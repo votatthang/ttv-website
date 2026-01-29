@@ -25,7 +25,7 @@
     "href": "index.html#recent-posts",
     "title": "Tat-Thang Vo, PhD",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nEURAICA 2026\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOur work on recanting twins has been accepted at Statistics in Medicine!\n\n\n\nJan 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOur work on infection risk of biologics in psoriasis has been accepted at JAAD!\n\n\n\nJan 22, 2026\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "publications.html",
@@ -131,5 +131,89 @@
     "title": "Contact",
     "section": "",
     "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+  },
+  {
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "Our work on recanting twins has been accepted at Statistics in Medicine!",
+    "section": "",
+    "text": "The accepted manuscript is accessible on arxiv: https://arxiv.org/abs/2401.04450.\n\nThe presence of intermediate confounders, also called recanting witnesses, is a fundamental challenge to the investigation of causal mechanisms in mediation analysis, preventing the identification of natural path-specific effects. Common alternatives (such as randomizational interventional effects) are problematic because they can take non-null values even when there is no mediation for any individual in the population. A promising alternative to natural path-specific effects was outlined in a recent article based on replacing recanting witnesses by draws from their conditional distribution. In this manuscript we formally develop these parameters (which we call recanting twin effects) into a viable alternative to natural effects for mediation analysis in the presence of intermediate confounding. Our contributions include (i) proposing a falsification procedure to test whether the observed data are compatible with intermediate confounding by a given intermediate variable, (ii) showing that recanting twin effects are equal to natural effects at the individual level in the absence of intermediate confounding, (iii) showing that recanting twin effects can be interpreted in agential frameworks such as the recently proposed separable effects, in addition to the non-agential framework in which they were originally outlined, and (iv) developing non-parametric efficiency theory including deriving the efficiency bound and non-parametric efficient estimators that can accommodate high-dimensional confounders through the use of data-adaptive estimation methods. We present an application of the methods to evaluate the role of new-onset anxiety and depressive disorder in explaining the relationship between gabapentin/pregabalin prescription and incident opioid use disorder among Medicaid beneficiaries with chronic pain."
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary-1",
+    "href": "posts/news-title/index.html#summary-1",
+    "title": "News item",
+    "section": "Summary",
+    "text": "Summary\nAbout the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#section",
+    "href": "posts/news-title/index.html#section",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#section-1",
+    "href": "posts/news-title/index.html#section-1",
+    "title": "News item",
+    "section": "#2",
+    "text": "#2\nAbout the news"
+  },
+  {
+    "objectID": "posts/event-title/index.html",
+    "href": "posts/event-title/index.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Paper 1\nabout paper 1\n\n\nPaper 2\nabout paper 2"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s New & Updated",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nEURAICA 2026\n\n\n\nevent\n\n\n\nThe European Confenrece on AI for Clinical Applications\n\n\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nOur work on recanting twins has been accepted at Statistics in Medicine!\n\n\n\npaper\n\n\n\n\n\n\n\n\n\nJan 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nOur work on infection risk of biologics in psoriasis has been accepted at JAAD!\n\n\n\npaper\n\n\n\n\n\n\n\n\n\nJan 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPapers\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/test/index.html",
+    "href": "posts/test/index.html",
+    "title": "EURAICA 2026",
+    "section": "",
+    "text": "As an invited speaker, I will be joining this conference (https://euraica2026.com/) to introduce a new method for transporting treatment effects to a new target population with limited access to individual-level data. The abstract of the talk can be found below.\n\nThe ability to transport empirical findings to new environments, settings, or populations is essential in many scientific investigations. A key practical challenge in applying standard methods for transportability, however, is their reliance on full access to individual-level data on outcomes, treatments, and case-mix characteristics from the source study, as well as individual-level case-mix data from a representative sample of the target population. In practice, such data sharing is often hindered by administrative barriers and privacy concerns. For instance, a pharmaceutical company may have access to individual-level data from its own trial but only aggregate-level information from the target population, such as that reported in a competitor’s study. In these situations, state-of-the-art methods typically use parametric G-computation or inverse probability weighting to adjust for case-mix differences between the source and target populations. However, these approaches can yield severely biased effect estimates if the modeling assumptions for the outcome or weighting models are violated. In this work, we develop novel non-parametric methods for transportability that avoid strong parametric assumptions in settings with limited access to individual-level data. Our approach leverages computational optimal transport to construct flexible, data-driven estimators of the target population effect. These methods allow for the use of modern machine learning techniques to estimate nuisance functions, and are grounded in semi-parametric theory to ensure valid asymptotic inference. We evaluate the finite-sample performance of our proposed methods through extensive simulations and applications to real-world clinical data."
+  },
+  {
+    "objectID": "posts/20260129_euraica/index.html",
+    "href": "posts/20260129_euraica/index.html",
+    "title": "EURAICA 2026",
+    "section": "",
+    "text": "As an invited speaker, I will be joining this conference (https://euraica2026.com/) to introduce a new method for transporting treatment effects to a new target population with limited access to individual-level data. The abstract of the talk can be found below.\n\nThe ability to transport empirical findings to new environments, settings, or populations is essential in many scientific investigations. A key practical challenge in applying standard methods for transportability, however, is their reliance on full access to individual-level data on outcomes, treatments, and case-mix characteristics from the source study, as well as individual-level case-mix data from a representative sample of the target population. In practice, such data sharing is often hindered by administrative barriers and privacy concerns. For instance, a pharmaceutical company may have access to individual-level data from its own trial but only aggregate-level information from the target population, such as that reported in a competitor’s study. In these situations, state-of-the-art methods typically use parametric G-computation or inverse probability weighting to adjust for case-mix differences between the source and target populations. However, these approaches can yield severely biased effect estimates if the modeling assumptions for the outcome or weighting models are violated. In this work, we develop novel non-parametric methods for transportability that avoid strong parametric assumptions in settings with limited access to individual-level data. Our approach leverages computational optimal transport to construct flexible, data-driven estimators of the target population effect. These methods allow for the use of modern machine learning techniques to estimate nuisance functions, and are grounded in semi-parametric theory to ensure valid asymptotic inference. We evaluate the finite-sample performance of our proposed methods through extensive simulations and applications to real-world clinical data."
+  },
+  {
+    "objectID": "posts/paper-title/index.html",
+    "href": "posts/paper-title/index.html",
+    "title": "Our work on infection risk of biologics in psoriasis has been accepted at JAAD!",
+    "section": "",
+    "text": "Psoriasis is a frequent, chronic, debilitating inflammatory skin disease with no cure and negative impact on patients’ quality of life. Biologic therapies, including tumor necrosis factor-alpha inhibitors (TNFi), interleukin-12/23 inhibitors (IL12/23i), IL17i and IL23i, has represented a major advancement in the management of psoriasis. However, these treatments have been reported to be associated with an increased risk of infection. Infection is the second leading cause of death in this patient population, regardless of the type of treatment. In short-term assessment in randomized trials, IL-23i and IL-17i show better infectious safety than TNFi, although IL-17i shows higher candidiasis risk than IL-23i and IL-12/23i. However, trials are often underpowered for rare events, and may not reflect real-world patients. While observational studies on the same topic may have better external validity, these studies often have conflicting findings. In addition, most studies did not evaluate recently licensed IL23i such as risankizumab and tildrakizumab due to the lack of data, despite these biologics being increasingly used as first-line options. Second, the vulnerable patients with a recent history of infections prior to biologic initiation were excluded from all studies. Third, the safety profile of biologics in the context of outpatient-managed infections has been less investigated. In this nationwide cohort study, we aim to simultaneously assess the risk of inpatient-managed and outpatient-managed infections of all biologics for psoriasis, using data on new users with/without a history of infection."
+  },
+  {
+    "objectID": "posts/20260129_recanting twins/index.html",
+    "href": "posts/20260129_recanting twins/index.html",
+    "title": "Our work on recanting twins has been accepted at Statistics in Medicine!",
+    "section": "",
+    "text": "The accepted manuscript is accessible on arxiv: https://arxiv.org/abs/2401.04450.\n\nThe presence of intermediate confounders, also called recanting witnesses, is a fundamental challenge to the investigation of causal mechanisms in mediation analysis, preventing the identification of natural path-specific effects. Common alternatives (such as randomizational interventional effects) are problematic because they can take non-null values even when there is no mediation for any individual in the population. A promising alternative to natural path-specific effects was outlined in a recent article based on replacing recanting witnesses by draws from their conditional distribution. In this manuscript we formally develop these parameters (which we call recanting twin effects) into a viable alternative to natural effects for mediation analysis in the presence of intermediate confounding. Our contributions include (i) proposing a falsification procedure to test whether the observed data are compatible with intermediate confounding by a given intermediate variable, (ii) showing that recanting twin effects are equal to natural effects at the individual level in the absence of intermediate confounding, (iii) showing that recanting twin effects can be interpreted in agential frameworks such as the recently proposed separable effects, in addition to the non-agential framework in which they were originally outlined, and (iv) developing non-parametric efficiency theory including deriving the efficiency bound and non-parametric efficient estimators that can accommodate high-dimensional confounders through the use of data-adaptive estimation methods. We present an application of the methods to evaluate the role of new-onset anxiety and depressive disorder in explaining the relationship between gabapentin/pregabalin prescription and incident opioid use disorder among Medicaid beneficiaries with chronic pain."
+  },
+  {
+    "objectID": "posts/20260122_infection biologics/index.html",
+    "href": "posts/20260122_infection biologics/index.html",
+    "title": "Our work on infection risk of biologics in psoriasis has been accepted at JAAD!",
+    "section": "",
+    "text": "The full text of the paper can be found here.\nPsoriasis is a frequent, chronic, debilitating inflammatory skin disease with no cure and negative impact on patients’ quality of life. Biologic therapies, including tumor necrosis factor-alpha inhibitors (TNFi), interleukin-12/23 inhibitors (IL12/23i), IL17i and IL23i, has represented a major advancement in the management of psoriasis. However, these treatments have been reported to be associated with an increased risk of infection. Infection is the second leading cause of death in this patient population, regardless of the type of treatment. In short-term assessment in randomized trials, IL-23i and IL-17i show better infectious safety than TNFi, although IL-17i shows higher candidiasis risk than IL-23i and IL-12/23i. However, trials are often underpowered for rare events, and may not reflect real-world patients. While observational studies on the same topic may have better external validity, these studies often have conflicting findings. In addition, most studies did not evaluate recently licensed IL23i such as risankizumab and tildrakizumab due to the lack of data, despite these biologics being increasingly used as first-line options. Second, the vulnerable patients with a recent history of infections prior to biologic initiation were excluded from all studies. Third, the safety profile of biologics in the context of outpatient-managed infections has been less investigated. In this nationwide cohort study, we aim to simultaneously assess the risk of inpatient-managed and outpatient-managed infections of all biologics for psoriasis, using data on new users with/without a history of infection."
   }
 ]

@@ -1,5 +1,5 @@
 ---
-title: "Event item"
+title: "Papers"
 description: "About Event item."
 author: "Event"
 date: "2024-09-03"
@@ -8,6 +8,13 @@ image: "/files/images/placeholder2.JPG"
 #css: /custom.css
 #draft: true
 ---
+
+### Paper 1
+about paper 1
+
+
+### Paper 2
+about paper 2
 
 [![](/files/images/placeholder2.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
 

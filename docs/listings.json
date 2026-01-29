@@ -2,9 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
+      "/posts/20260129_euraica/index.html",
+      "/posts/20260129_recanting twins/index.html",
+      "/posts/20260122_infection biologics/index.html",
+      "/posts/event-title/index.html"
     ]
   },
   {
@@ -14,5 +15,14 @@
   {
     "listing": "/people.html",
     "items": []
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/20260129_euraica/index.html",
+      "/posts/20260129_recanting twins/index.html",
+      "/posts/20260122_infection biologics/index.html",
+      "/posts/event-title/index.html"
+    ]
   }
 ]

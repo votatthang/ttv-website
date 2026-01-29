@@ -1,0 +1,21 @@
+---
+title: "EURAICA 2026"
+description: "The European Confenrece on AI for Clinical Applications"
+#author: "Event"
+date: "2026-03-11"
+categories: [event]
+image: "/files/images/euraica2026.jpg"
+#css: /custom.css
+#draft: true
+---
+
+As an invited speaker, I will be joining this conference (https://euraica2026.com/) to introduce a new method for transporting treatment effects to a new target population with limited access to individual-level data. The abstract of the talk can be found below.
+
+[![](/files/images/euraica2026.jpg){width="100%"}](https://euraica2026.com/)
+
+The ability to transport empirical findings to new environments, settings, or populations is essential in many scientific investigations. A key practical challenge in applying standard methods for transportability, however, is their reliance on full access to individual-level data on outcomes, treatments, and case-mix characteristics from the source study, as well as individual-level case-mix data from a representative sample of the target population. In practice, such data sharing is often hindered by administrative barriers and privacy concerns. For instance, a pharmaceutical company may have access to individual-level data from its own trial but only aggregate-level information from the target population, such as that reported in a competitor’s study. In these situations, state-of-the-art methods typically use parametric G-computation or inverse probability weighting to adjust for case-mix differences between the source and target populations. However, these approaches can yield severely biased effect estimates if the modeling assumptions for the outcome or weighting models are violated. In this work, we develop novel non-parametric methods for transportability that avoid strong parametric assumptions in settings with limited access to individual-level data. Our approach leverages computational optimal transport to construct flexible, data-driven estimators of the target population effect. These methods allow for the use of modern machine learning techniques to estimate nuisance functions, and are grounded in semi-parametric theory to ensure valid asymptotic inference. We evaluate the finite-sample performance of our proposed methods through extensive simulations and applications to real-world clinical data.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

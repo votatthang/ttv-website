@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Tat-Thang Vo</title>
+<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
+<atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Tue, 10 Mar 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>EURAICA 2026</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/20260129_euraica/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>As an invited speaker, I will be joining this conference (https://euraica2026.com/) to introduce a new method for transporting treatment effects to a new target population with limited access to individual-level data. The abstract of the talk can be found below.</p>
+<p><a href="https://euraica2026.com/"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/euraica2026.jpg" class="img-fluid" style="width:100.0%"></a></p>
+<p>The ability to transport empirical findings to new environments, settings, or populations is essential in many scientific investigations. A key practical challenge in applying standard methods for transportability, however, is their reliance on full access to individual-level data on outcomes, treatments, and case-mix characteristics from the source study, as well as individual-level case-mix data from a representative sample of the target population. In practice, such data sharing is often hindered by administrative barriers and privacy concerns. For instance, a pharmaceutical company may have access to individual-level data from its own trial but only aggregate-level information from the target population, such as that reported in a competitor’s study. In these situations, state-of-the-art methods typically use parametric G-computation or inverse probability weighting to adjust for case-mix differences between the source and target populations. However, these approaches can yield severely biased effect estimates if the modeling assumptions for the outcome or weighting models are violated. In this work, we develop novel non-parametric methods for transportability that avoid strong parametric assumptions in settings with limited access to individual-level data. Our approach leverages computational optimal transport to construct flexible, data-driven estimators of the target population effect. These methods allow for the use of modern machine learning techniques to estimate nuisance functions, and are grounded in semi-parametric theory to ensure valid asymptotic inference. We evaluate the finite-sample performance of our proposed methods through extensive simulations and applications to real-world clinical data.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/20260129_euraica/</guid>
+  <pubDate>Tue, 10 Mar 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/euraica2026.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Our work on recanting twins has been accepted at Statistics in Medicine!</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/20260129_recanting twins/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The accepted manuscript is accessible on arxiv: https://arxiv.org/abs/2401.04450.</p>
+<p><a href="https://arxiv.org/abs/2401.04450"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/mediation.png" class="img-fluid" style="width:50.0%"></a></p>
+<p>The presence of intermediate confounders, also called recanting witnesses, is a fundamental challenge to the investigation of causal mechanisms in mediation analysis, preventing the identification of natural path-specific effects. Common alternatives (such as randomizational interventional effects) are problematic because they can take non-null values even when there is no mediation for any individual in the population. A promising alternative to natural path-specific effects was outlined in a recent article based on replacing recanting witnesses by draws from their conditional distribution. In this manuscript we formally develop these parameters (which we call recanting twin effects) into a viable alternative to natural effects for mediation analysis in the presence of intermediate confounding. Our contributions include (i) proposing a falsification procedure to test whether the observed data are compatible with intermediate confounding by a given intermediate variable, (ii) showing that recanting twin effects are equal to natural effects at the individual level in the absence of intermediate confounding, (iii) showing that recanting twin effects can be interpreted in agential frameworks such as the recently proposed separable effects, in addition to the non-agential framework in which they were originally outlined, and (iv) developing non-parametric efficiency theory including deriving the efficiency bound and non-parametric efficient estimators that can accommodate high-dimensional confounders through the use of data-adaptive estimation methods. We present an application of the methods to evaluate the role of new-onset anxiety and depressive disorder in explaining the relationship between gabapentin/pregabalin prescription and incident opioid use disorder among Medicaid beneficiaries with chronic pain.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/20260129_recanting twins/</guid>
+  <pubDate>Wed, 28 Jan 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/mediation.png" medium="image" type="image/png" height="78" width="144"/>
+</item>
+<item>
+  <title>Our work on infection risk of biologics in psoriasis has been accepted at JAAD!</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/20260122_infection biologics/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The full text of the paper can be found here.</p>
+<p>Psoriasis is a frequent, chronic, debilitating inflammatory skin disease with no cure and negative impact on patients’ quality of life. Biologic therapies, including tumor necrosis factor-alpha inhibitors (TNFi), interleukin-12/23 inhibitors (IL12/23i), IL17i and IL23i, has represented a major advancement in the management of psoriasis. However, these treatments have been reported to be associated with an increased risk of infection. Infection is the second leading cause of death in this patient population, regardless of the type of treatment. In short-term assessment in randomized trials, IL-23i and IL-17i show better infectious safety than TNFi, although IL-17i shows higher candidiasis risk than IL-23i and IL-12/23i. However, trials are often underpowered for rare events, and may not reflect real-world patients. While observational studies on the same topic may have better external validity, these studies often have conflicting findings. In addition, most studies did not evaluate recently licensed IL23i such as risankizumab and tildrakizumab due to the lack of data, despite these biologics being increasingly used as first-line options. Second, the vulnerable patients with a recent history of infections prior to biologic initiation were excluded from all studies. Third, the safety profile of biologics in the context of outpatient-managed infections has been less investigated. In this nationwide cohort study, we aim to simultaneously assess the risk of inpatient-managed and outpatient-managed infections of all biologics for psoriasis, using data on new users with/without a history of infection.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/20260122_infection biologics/</guid>
+  <pubDate>Wed, 21 Jan 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/20260122_infection biologics.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Papers</title>
+  <dc:creator>Event </dc:creator>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="paper-1" class="level3">
+<h3 class="anchored" data-anchor-id="paper-1">Paper 1</h3>
+<p>about paper 1</p>
+</section>
+<section id="paper-2" class="level3">
+<h3 class="anchored" data-anchor-id="paper-2">Paper 2</h3>
+<p>about paper 2</p>
+<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>event</category>
+  <category>presentation</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</guid>
+  <pubDate>Mon, 02 Sep 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" medium="image"/>
+</item>
+</channel>
+</rss>

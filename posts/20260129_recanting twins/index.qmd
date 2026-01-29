@@ -1,0 +1,26 @@
+---
+title: "Our work on recanting twins has been accepted at Statistics in Medicine!"
+#description: "About new item"
+#author: "News"
+date: "2026-01-29"
+categories: [paper]
+image: "/files/images/mediation.png"
+#css: /custom.css
+#draft: true
+---
+
+The accepted manuscript is accessible on arxiv: https://arxiv.org/abs/2401.04450.
+
+[![](/files/images/mediation.png){width="50%"}](https://arxiv.org/abs/2401.04450)
+
+The presence of intermediate confounders, also called recanting witnesses, is a fundamental challenge to the investigation of causal mechanisms in mediation analysis, preventing the identification of natural path-specific effects. Common alternatives (such as randomizational interventional effects) are problematic because they can take non-null values even when there is no mediation for any individual in the population. A promising alternative to natural path-specific effects was outlined in a recent article based on replacing recanting witnesses by draws from their conditional distribution. 
+In this manuscript we formally develop these parameters (which we call recanting twin effects) into a viable alternative to natural effects for mediation analysis in the presence of intermediate confounding. Our contributions include 
+(i) proposing a falsification procedure to test whether the observed data are compatible with intermediate confounding by a given intermediate variable, (ii) showing that recanting twin effects are equal to natural effects at the individual level in the absence of intermediate confounding, (iii) showing that recanting twin effects can be interpreted in agential frameworks such as the recently proposed separable effects, in addition to the non-agential framework in which they were originally outlined, and (iv) developing non-parametric efficiency theory including deriving the efficiency bound and non-parametric efficient estimators 
+that can accommodate high-dimensional confounders through the use of data-adaptive estimation methods. We present an application of the methods to evaluate the role of new-onset anxiety and depressive disorder in explaining the relationship between gabapentin/pregabalin prescription and incident opioid use disorder among Medicaid beneficiaries with chronic pain.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+
+
+

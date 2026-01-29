@@ -1,0 +1,16 @@
+---
+title: "Our work on infection risk of biologics in psoriasis has been accepted at JAAD!"
+date: "2026-01-22"
+categories: [paper]
+image: "/files/images/20260122_infection biologics.jpg"
+#css: /custom.css
+#draft: true
+---
+
+The full text of the paper can be found here. 
+
+Psoriasis is a frequent, chronic, debilitating inflammatory skin disease with no cure and negative impact on patients’ quality of life. Biologic therapies, including tumor necrosis factor-alpha inhibitors (TNFi), interleukin-12/23 inhibitors (IL12/23i), IL17i and IL23i, has represented a major advancement in the management of psoriasis. However, these treatments have been reported to be associated with an increased risk of infection. Infection is the second leading cause of death in this patient population, regardless of the type of treatment. In short-term assessment in randomized trials, IL-23i and IL-17i show better infectious safety than TNFi, although IL-17i shows higher candidiasis risk than IL-23i and IL-12/23i. However, trials are often underpowered for rare events, and may not reflect real-world patients. While observational studies on the same topic may have better external validity, these studies often have conflicting findings. In addition, most studies did not evaluate recently licensed IL23i such as risankizumab and tildrakizumab due to the lack of data, despite these biologics being increasingly used as first-line options. Second, the vulnerable patients with a recent history of infections prior to biologic initiation were excluded from all studies. Third, the safety profile of biologics in the context of outpatient-managed infections has been less investigated. In this nationwide cohort study, we aim to simultaneously assess the risk of inpatient-managed and outpatient-managed infections of all biologics for psoriasis, using data on new users with/without a history of infection.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
