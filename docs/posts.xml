@@ -12,7 +12,7 @@
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Tue, 10 Mar 2026 23:00:00 GMT</lastBuildDate>
 <item>
-  <title>EURAICA 2026</title>
+  <title>The 2026 European Confenrece on AI for Clinical Applications (EURAICA 2026)</title>
   <link>https://drganghe.github.io/quarto-academic-website-template/posts/20260129_euraica/</link>
   <description><![CDATA[ 
 
@@ -99,44 +99,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/quarto-academic-website-template/posts/20260122_infection biologics/</guid>
   <pubDate>Wed, 21 Jan 2026 23:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/20260122_infection biologics.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Papers</title>
-  <dc:creator>Event </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="paper-1" class="level3">
-<h3 class="anchored" data-anchor-id="paper-1">Paper 1</h3>
-<p>about paper 1</p>
-</section>
-<section id="paper-2" class="level3">
-<h3 class="anchored" data-anchor-id="paper-2">Paper 2</h3>
-<p>about paper 2</p>
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>event</category>
-  <category>presentation</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</guid>
-  <pubDate>Mon, 02 Sep 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" medium="image"/>
 </item>
 </channel>
 </rss>

@@ -1,6 +1,6 @@
 ---
-title: "EURAICA 2026"
-description: "The European Confenrece on AI for Clinical Applications"
+title: "The 2026 European Confenrece on AI for Clinical Applications (EURAICA 2026)"
+#description: ""
 #author: "Event"
 date: "2026-03-11"
 categories: [event]
